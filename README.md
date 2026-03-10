@@ -27,4 +27,4 @@ You can view the live project here: **[PASTE YOUR GITHUB PAGES LINK HERE]**
 3. Open `index.html` in any modern web browser (Chrome, Edge, or Firefox).
 
 ---
-**Developed by [Your Name]** *Internship Task Submission*
+**Developed by [SONU PRAJAPATI]** *Internship Task Submission*
