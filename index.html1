@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CFX96 Bio-Rad Real-Time PCR Machine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- Modern Healthcare Product Card Section: CFX96 Bio-Rad Real-Time PCR Machine -->
+
+<div class="medical-product-page">
+  <!-- Left: Sticky Large Image Card -->
+  <aside class="sticky-image-card">
+    <div class="image-card">
+      <img src="images.jpg" alt="CFX96 Bio-Rad Real-Time PCR Machine" class="product-photo">
+      <div class="image-caption">CFX96 Bio-Rad Real-Time PCR Machine</div>
+    </div>
+  </aside>
+
+  <!-- Right: Scrollable Professional Content -->
+  <main class="scrollable-content">
+    <!-- Overview Card -->
+    <section class="content-card">
+      <div class="card-accent"></div>
+      <div class="card-body">
+        <div class="card-title">CFX96 Bio-Rad Real-Time PCR Machine</div>
+        <div class="card-subheader">OVERVIEW</div>
+        <div class="card-description">
+          The CFX96 Touch Real-Time PCR Detection System is a powerful, precise, and flexible instrument designed for advanced molecular biology laboratories. It delivers high sensitivity and reliable performance for both singleplex and multiplex reactions.
+        </div>
+      </div>
+    </section>
+    <!-- Strengths Card (2x2 grid) -->
+    <section class="content-card">
+      <div class="card-accent"></div>
+      <div class="card-body">
+        <div class="card-subheader">Strengths</div>
+        <div class="strengths-grid">
+          <div class="strength-box">
+            <div class="strength-icon">🔬</div>
+            <div class="strength-title">Six-channel detection</div>
+            <div class="strength-desc">Six-channel fluorescence detection</div>
+          </div>
+          <div class="strength-box">
+            <div class="strength-icon">🌡️</div>
+            <div class="strength-title">Precise thermal system</div>
+            <div class="strength-desc">Precise thermal cycling system</div>
+          </div>
+          <div class="strength-box">
+            <div class="strength-icon">🧪</div>
+            <div class="strength-title">1–96 sample capacity</div>
+            <div class="strength-desc">1–96 sample processing capacity</div>
+          </div>
+          <div class="strength-box">
+            <div class="strength-icon">💡</div>
+            <div class="strength-title">High sensitivity</div>
+            <div class="strength-desc">High sensitivity optical detection</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Applications Card -->
+    <section class="content-card">
+      <div class="card-accent"></div>
+      <div class="card-body">
+        <div class="card-subheader">Applications</div>
+        <ul class="applications-list-med">
+          <li>Gene expression analysis</li>
+          <li>Clinical diagnostics</li>
+          <li>Virus detection (including COVID-19 research)</li>
+          <li>Pathogen detection</li>
+          <li>Molecular biology research</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+  </div>
+</body>
+</html>
