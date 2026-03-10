@@ -3,7 +3,7 @@
 A high-fidelity, professional product specification page for the **CFX96 Bio-Rad Real-Time PCR Machine**. This project was developed as a technical internship task to demonstrate modern web development skills in the healthcare/medical UI domain.
 
 ## 🚀 Live Preview
-You can view the live project here: **[PASTE YOUR GITHUB PAGES LINK HERE]**
+You can view the live project here: **[https://sonuprajapati78.github.io/pcr-machine-technology-page/]**
 
 ## ✨ Key Features
 * **Modern Healthcare UI:** A clean, laboratory-grade interface using a professional color palette (Navy Blue #2d5da1 & Clinical Red #e52730).
@@ -28,3 +28,6 @@ You can view the live project here: **[PASTE YOUR GITHUB PAGES LINK HERE]**
 
 ---
 **Developed by [SONU PRAJAPATI]** *Internship Task Submission*
+
+
+
